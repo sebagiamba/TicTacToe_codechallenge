@@ -1,2 +1,2 @@
 # TicTacToe_codechallenge
-Coderbyte TicTacToe code challenge for Cloud Devs interview
+Hard level React.js code challenge from Coderbyte.
